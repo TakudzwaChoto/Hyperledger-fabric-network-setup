@@ -13,7 +13,7 @@ As the name `nano` implies, the scripts provide the smallest minimal setup possi
 - Minimal channel configuration for an orderer organization (3 ordering nodes) and two peer organizations (with two peers each)
 - Minimal endorsement policy to allow a single organization to approve and commit a chaincode (unlike Test Network which requires both organizations to endorse)
 
-# Prereqs
+# Prerequisites
 
 - Follow the Fabric documentation for the [Prereqs](https://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html)
 - Follow the Fabric documentation for [downloading the Fabric samples and binaries](https://hyperledger-fabric.readthedocs.io/en/latest/install.html). You can skip the docker image downloads by using `./install-fabric.sh binary samples`
